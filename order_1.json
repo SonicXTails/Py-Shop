@@ -1,0 +1,15 @@
+{
+    "order_id": 1,
+    "user_login": "SonicXTails",
+    "address": "USAO",
+    "order_time": "2023-11-25 10:58:27",
+    "items": [
+        {
+            "product_id": 1,
+            "quantity": 1,
+            "product_name": "Молоко",
+            "price": 50.0
+        }
+    ],
+    "total_price": 50.0
+}
